@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://caigicungre.com.vn/' target='_blank'><img src='http://hstatic.net/077/1000072077/1000102215/logo.png?v=175' width='500px'/>Túi xách, Giày dép caigicungre.com.vn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://caigicungre.com.vn/' target='_blank'><img src='http://hstatic.net/077/1000072077/1000102215/logo.png?v=175' width='500px'/>THỜI TRANG - MUA 1 CŨNG SỈ - MUA 1 CŨNG LẺ caigicungre.com.vn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
